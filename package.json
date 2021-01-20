@@ -1,0 +1,31 @@
+{
+  "name": "burn-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "seed.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "momentjs": "^2.0.0",
+    "mongoose": "^5.11.12",
+    "mongoose-data-seed": "^2.1.6",
+    "mongoose-type-email": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobwilde378/burn-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobwilde378/burn-book/issues"
+  },
+  "homepage": "https://github.com/jacobwilde378/burn-book#readme"
+}
