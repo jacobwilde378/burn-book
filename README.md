@@ -14,6 +14,7 @@ Clone the repo and run NPM i.  You can then interact with the project through th
 ## Screen Shots / Video
 
 A walk through video can be found here:
+
 Overview:  https://drive.google.com/file/d/1sA8CRUCOMU6B82Chsy5dBn37TrMW8-Oe/view (Links to an external site.)
 
 Friends:  https://drive.google.com/file/d/1VnTMdbp85oipmPsk_EGY4iHuYrNO-t75/view (Links to an external site.) 
